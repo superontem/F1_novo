@@ -6,4 +6,8 @@ class Obj{
         this.h = h
         this.a = a
     }
+}class inimigo extends Obj{
+    des_car(){
+        
+    }
 }
